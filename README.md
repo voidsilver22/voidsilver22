@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Swastik Sharma
 
-**Software Developer | Quantum Research Enthusiast | Passionate Technologist**
+**Aspiring ML Engineer | Quantum Research Enthusiast | Passionate Technologist**
 
-I'm Swastik Sharma, a passionate Software Developer with expertise across **Machine Learning, Quantum Computing, Generative AI, Software Development, UI/UX, and 3D Design**. I thrive on solving complex problems and staying ahead of emerging technologies.
+I'm Swastik Sharma, a passionate ML Engineer with expertise across **Machine Learning, Quantum Computing, Generative AI, Software Development, UI/UX, and Bare Metal Coding**. I thrive on solving complex problems and staying ahead of emerging technologies.
 
 ---
 
