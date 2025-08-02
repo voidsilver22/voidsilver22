@@ -14,23 +14,6 @@ I'm Swastik Sharma, a passionate ML Engineer with expertise across **Machine Lea
   - ✅ Reliable & detail-oriented
   - ✅ Passionate about tech & innovation
 
-Open to new opportunities—let’s connect! 🚀
-
----
-
-## 💼 Experience
-
-**Sr.Technical Coordinator **  
-_Artificial Intelligence and Deep Learning Club, FCRIT_  
-Jul 2024 - Jun 2025 · Mumbai, Maharashtra, India (On-site)
-
-**Project Intern**  
-_Bhabha Atomic Research Centre (BARC)_  
-Dec 2024 - Jan 2025 · Mumbai, Maharashtra, India (On-site)  
-*Successfully contributed to the simulation of the latching and unlatching mechanism of the Snout Plug for the Pressurized Heavy Water Reactor (PHWR) Refueling Machine. Responsibilities included 3D modeling and more.*
-
----
-
 ## 🛠️ Skills
 
 - Artificial Intelligence
