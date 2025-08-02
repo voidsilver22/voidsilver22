@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Swastik Sharma
 
-<!--
-**voidsilver22/voidsilver22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Quantum Research Enthusiast | Passionate Technologist**
 
-Here are some ideas to get you started:
+I'm Swastik Sharma, a passionate Software Developer with expertise across **Machine Learning, Quantum Computing, Generative AI, Software Development, UI/UX, and 3D Design**. I thrive on solving complex problems and staying ahead of emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- **Innovation & Research:** Continuously exploring new advancements, especially in **Quantum Computing** and **AI**.
+- **Collaboration & Adaptability:** A strong team player who values open communication and effective problem-solving.
+- **Why Connect?**
+  - ✅ Solution-driven & adaptable
+  - ✅ Reliable & detail-oriented
+  - ✅ Passionate about tech & innovation
+
+Open to new opportunities—let’s connect! 🚀
+
+---
+
+## 💼 Experience
+
+![image1](image1)
+
+**Assistant Technical Head**  
+_Artificial Intelligence and Deep Learning Club, FCRIT_  
+Jul 2024 - Jun 2025 · Mumbai, Maharashtra, India (On-site)
+
+**Project Intern**  
+_Bhabha Atomic Research Centre (BARC)_  
+Dec 2024 - Jan 2025 · Mumbai, Maharashtra, India (On-site)  
+*Successfully contributed to the simulation of the latching and unlatching mechanism of the Snout Plug for the Pressurized Heavy Water Reactor (PHWR) Refueling Machine. Responsibilities included 3D modeling and more.*
+
+---
+
+## 🛠️ Skills
+
+- Artificial Intelligence
+- Deep Learning
+- Machine Learning
+- Agentic AI
+- Data Science
+- Quantum Computing
+- System's Programming
+- Full Stack Web Development
+- Docker, Kubernetes
+- Google Cloud, AWS
+
+---
+
+<!-- Projects section intentionally left out as per your request. You can update it later! -->
+
+---
+
+## 📫 Let's Connect
+
+Open to collaboration, research, and tech opportunities!  
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/swastiksharma20).
+
+---
