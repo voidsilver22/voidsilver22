@@ -20,9 +20,7 @@ Open to new opportunities—let’s connect! 🚀
 
 ## 💼 Experience
 
-![image1](image1)
-
-**Assistant Technical Head**  
+**Sr.Technical Coordinator **  
 _Artificial Intelligence and Deep Learning Club, FCRIT_  
 Jul 2024 - Jun 2025 · Mumbai, Maharashtra, India (On-site)
 
